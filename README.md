@@ -1,4 +1,11 @@
+
+
+Incomplete and Modified version of
 2168_Vision_Example
+
+If you are reading this, see the real 2168_Vision_Example at https://github.com/Team2168/2168_Vision_Example
+
+this will probably not help you
 ===================
 
 Attached is a compiled version of the OpenCV 2.4.10 libraries, which we patched to support the particular camera functions of the USB Microsoft HD 3000 web cam.
